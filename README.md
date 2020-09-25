@@ -1,6 +1,6 @@
 # BÚSQUEDA DE INFORMACIÓN  ACADÉMICA
 
-INTEGRANTES
+###INTEGRANTES
 -  Carmen Alicia Sánchez Alean 
 - Daniela Torres Berrio
 - Jesús Miguel Ramos Díaz
